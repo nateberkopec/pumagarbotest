@@ -1,0 +1,4 @@
+{
+  "name": "Puma garbage tester",
+  "description": "Generates slow creeping memory growth w/puma"
+}
